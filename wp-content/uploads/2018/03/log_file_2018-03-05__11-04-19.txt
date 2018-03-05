@@ -1,0 +1,1426 @@
+
+---Upload files---
+Widget file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+Customizer file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/webitusu
+Data file = C:\xampp\htdocs\webitusu/wp-content/uploads/2018/03/academica-pro-3.0.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import status Active
+[WARNING] Failed to import job-types Agent
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import locations Bellevue
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag blut
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import locations Burghill
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag cobalt
+[WARNING] Failed to import property-types Commercial
+[WARNING] Failed to import property-types Condo
+[WARNING] Failed to import product_tag cotton
+[WARNING] Failed to import locations Devon
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import status Featured
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import features Fireplace
+[WARNING] Failed to import status For Rent
+[WARNING] Failed to import features Garage
+[WARNING] Failed to import features Garden
+[WARNING] Failed to import features Golf Course
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import locations Herefordshire
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat iPhone
+[WARNING] Failed to import product_tag iphone
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import product_tag jewelry
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag leather
+[WARNING] Failed to import offices London
+[WARNING] Failed to import locations London
+[WARNING] Failed to import features Modern
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import status New
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_tag orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import status Pending
+[WARNING] Failed to import product_tag picnic
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import status Reduced
+[WARNING] Failed to import property-types Residential
+[WARNING] Failed to import locations San Clemente
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_tag sleeve
+[WARNING] Failed to import status Sold
+[WARNING] Failed to import locations Surrey
+[WARNING] Failed to import product_tag t-shirt
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import property-types Townhome
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vintage
+[WARNING] Failed to import locations Washington
+[WARNING] Failed to import product_cat Albums
+
